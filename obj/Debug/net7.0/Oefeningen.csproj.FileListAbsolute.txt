@@ -1,0 +1,15 @@
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.csproj.AssemblyReference.cache
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.AssemblyInfoInputs.cache
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.AssemblyInfo.cs
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.csproj.CoreCompileInputs.cache
+D:\Bee\vs2022\Oefeningen\Oefeningen\bin\Debug\net7.0\Oefeningen.exe
+D:\Bee\vs2022\Oefeningen\Oefeningen\bin\Debug\net7.0\Oefeningen.deps.json
+D:\Bee\vs2022\Oefeningen\Oefeningen\bin\Debug\net7.0\Oefeningen.runtimeconfig.json
+D:\Bee\vs2022\Oefeningen\Oefeningen\bin\Debug\net7.0\Oefeningen.dll
+D:\Bee\vs2022\Oefeningen\Oefeningen\bin\Debug\net7.0\Oefeningen.pdb
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.dll
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\refint\Oefeningen.dll
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.pdb
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\Oefeningen.genruntimeconfig.cache
+D:\Bee\vs2022\Oefeningen\Oefeningen\obj\Debug\net7.0\ref\Oefeningen.dll
